@@ -1,6 +1,6 @@
 using System;
 
-/* zminay na branchu NOWA */
+/* branch - nowa */
 
 namespace PassGenerator
 {
